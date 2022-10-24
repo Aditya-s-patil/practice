@@ -16,7 +16,6 @@ public class min_max {
 
         for (int i=0;i<inp;i++){
             arry[i]=sc.nextInt();
-            min=arry[0];
             if (max<arry[i]){
                 max=arry[i];
             }
